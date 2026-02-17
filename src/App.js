@@ -5,12 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Привет, это мое приложение для Telegram!</h1>
+        <h1>Привет, мое солнышко❤️!</h1>
         <p>
-          Это веб-приложение работает прямо внутри Telegram через WebView.
+          Я хочу что б ты знала, что ты самый дорогой и близкий для меня человек на всем свете!
         </p>
-        <button onClick={() => alert("Привет из Web App!")}>
-          Нажми на меня
+        <button onClick={() => alert("❤️❤️❤️Люблю тебя, больше всех на свете!❤️❤️❤️")}>
+          Нажми на меня!!!
         </button>
       </header>
     </div>
